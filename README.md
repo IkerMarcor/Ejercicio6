@@ -2,7 +2,8 @@
 ## Gestión avanzada de ramas y fusión con estrategia de ramificación
 Objetivo: Practicar una estrategia de ramificación más compleja y manejar conflictos.
 * Inicializa un nuevo repositorio en GitHub y clónalo en tu computadora usando GitHub Desktop.
-* Crea una rama llamada "caracteristica-nueva".●En la rama "caracteristica-nueva", realiza varios commits con cambios significativos en un archivo (puede ser un archivo de código o un documento de texto).
+* Crea una rama llamada "caracteristica-nueva".
+* En la rama "caracteristica-nueva", realiza varios commits con cambios significativos en un archivo (puede ser un archivo de código o un documento de texto).
 * Crea una segunda rama llamada "arreglos-caracteristica".
 * En la rama "arreglos-caracteristica", realiza cambios que solucionen problemas o errores en la característica que desarrollaste en la rama "caracteristica-nueva".
 * Realiza al menos un commit en "arreglos-caracteristica".
