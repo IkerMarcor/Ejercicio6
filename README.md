@@ -8,5 +8,6 @@ Objetivo: Practicar una estrategia de ramificación más compleja y manejar conf
 * Realiza al menos un commit en "arreglos-caracteristica".
 * Vuelve a la rama "caracteristica-nueva" y realiza al menos un commit adicional.
 * Intenta fusionar la rama "arreglos-caracteristica" en "caracteristica-nueva". Debería haber conflictos debido a los cambios en ambas ramas.
-* Resuelve los conflictos y asegúrate de que la característica funcione correctamente.●Fusiona la rama "arreglos-caracteristica" en "caracteristica-nueva" y luego fusiona "caracteristica-nueva" en la rama principal (por ejemplo, "main" o "master").
+* Resuelve los conflictos y asegúrate de que la característica funcione correctamente.
+* Fusiona la rama "arreglos-caracteristica" en "caracteristica-nueva" y luego fusiona "caracteristica-nueva" en la rama principal (por ejemplo, "main" o "master").
 * Sincroniza tus cambios con GitHub.com.
